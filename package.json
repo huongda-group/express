@@ -1,7 +1,7 @@
 {
   "name": "@huongda-group/express",
   "description": "Fast, unopinionated, minimalist web framework",
-  "version": "5.1.1",
+  "version": "5.1.0",
   "author": "TJ Holowaychuk <tj@vision-media.ca>",
   "contributors": [
     "Aaron Heckmann <aaron.heckmann+github@gmail.com>",
@@ -105,7 +105,8 @@
     "History.md",
     "Readme.md",
     "index.js",
-    "lib/"
+    "lib/",
+    "index.d.ts"
   ],
   "scripts": {
     "lint": "eslint ."
