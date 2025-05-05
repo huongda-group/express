@@ -202,7 +202,6 @@ proper GitHub/npm groups.
 - [`pillarjs/csrf`](https://github.com/pillarjs/csrf): @ulisesGascon
 - [`pillarjs/encodeurl`](https://github.com/pillarjs/encodeurl): @blakeembrey
 - [`pillarjs/finalhandler`](https://github.com/pillarjs/finalhandler): @wesleytodd, @ulisesGascon
-- [`pillarjs/hbs`](https://github.com/pillarjs/hbs): @ulisesGascon
 - [`pillarjs/multiparty`](https://github.com/pillarjs/multiparty): @blakeembrey
 - [`pillarjs/parseurl`](https://github.com/pillarjs/parseurl): @blakeembrey
 - [`pillarjs/path-to-regexp`](https://github.com/pillarjs/path-to-regexp): @blakeembrey
