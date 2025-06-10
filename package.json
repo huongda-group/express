@@ -1,7 +1,7 @@
 {
   "name": "@huongda-group/express",
   "description": "Fast, unopinionated, minimalist web framework",
-  "version": "5.1.5",
+  "version": "5.1.6",
   "author": "Nelie Taylor <nghi@huongda.online>",
   "contributors": [
     "Nelie Taylor <nghi@huongda.online>",
